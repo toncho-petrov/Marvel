@@ -18,8 +18,9 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <optional>true</optional>
-        </dependency>
+            <version>1.16.16</version>
+            <scope>provided</scope>
+	</dependency>
 
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
